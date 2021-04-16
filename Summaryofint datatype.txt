@@ -1,0 +1,8 @@
+1)sizeof(short)<=sizeof(int)<=sizeof(long)
+2)Writing signed int some_variable_name is equivalent to writing int some_variable_name.
+3)%d is used to print "signed integer".
+4)%u isused to print "unsigned integer".
+5)%ld is used to print "long integer" equivalent to signed long interger .
+6)%lu is used tp print "unsigned long integer".
+7)%lld is used to print long long integer.
+8)%llu is used to print "unsigned long long integer".

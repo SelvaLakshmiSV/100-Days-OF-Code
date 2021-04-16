@@ -1,0 +1,8 @@
+Variable name composed of letters or combination of letters(both uppercase and lowercase) and digits. 
+Rule 1 : Don't start variable name with a digit.
+Rule 2 : Begining with _ is valid but not recommended.
+Rule 3 : C language is case sensitive . Uppercase letters are different from lowercase letters.
+Rule 4 : Special character (@,#,$,%,^,&,*,...) are not allowed in the name of the variable.
+Rule 5 : Blanks or whitespaces are not allowed.
+Rule 6 : Don't use keywords to name a variable.
+**Don't use long nmaes in your program.**
